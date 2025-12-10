@@ -1,0 +1,6 @@
+﻿# Requirements for Lecture 5 project
+# Add your Python dependencies here
+
+# flask==2.3.2
+# pandas==2.0.3
+# numpy==1.24.3
